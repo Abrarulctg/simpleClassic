@@ -1,0 +1,104 @@
+/*
+Theme Name: Simple Classic
+Author: Abrarul
+Author URI: https://www.facebook.com/jubair.abrar
+Version: 1.0
+
+*/
+
+/* .container{
+    padding: 0 50px;
+} */
+
+
+
+header{
+    background-color: black;
+    height: 120px;
+    padding-top: 20px;
+}
+.header-title{
+    font-size: 40px;
+    color: white;
+}
+.header-title:hover{
+    color: white;
+}
+
+.header-text{
+    color: lightgray;
+    padding-left: 40px;
+}
+header ul li {
+    list-style:none;
+    display: inline-block;
+}
+header ul li a{
+    color: white;
+    padding: 10px 20px;
+}
+header ul li a:hover{
+    color: white;
+}
+.body{
+    padding: 20px 20px;
+}
+footer li{
+    list-style: none;
+}
+.sidebar li{
+    list-style:none;
+}
+.sidebar li ul{
+    padding-left:10px;
+    color: gray;
+}
+.sidebar li ul a{
+    color: rgb(71, 71, 71);
+}
+
+.sidebar .widgettitle{
+    background-color: rgb(61, 61, 61);
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    text-transform: uppercase;
+}
+.search-box li{
+    list-style:none;
+}
+.search-box label{
+    display:none;
+}
+.searchform{
+    display:flex;
+}
+
+
+.elementor-image img{
+    width: 100%;
+}
+
+.wp-block-social-links li{
+    list-style:none;
+    display: inline-block;
+}
+.postsSample img{
+    width: 100%;
+}
+.wp-calendar-table{
+    text-align: center;
+    width: 100%;
+}
+.wp-calendar-table caption{
+    text-align: center !important;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid lightgray;   
+}
+
+.footer-hr{
+    background-color: lightgray;
+    height: 2px;
+}
